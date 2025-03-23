@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Camiseta regata verde",
+      "imgUrl": "https://images.tcdn.com.br/img/img_prod/1156013/regata_canelada_verde_militar_170979_1_d4b535f0c06217e49b35a10ad4f8d63b_20241127175511.jpg",
+      "description": "Uma camiseta para chamar de sua. Aproveite o preço e leve para casa essa linda camiseta!",
+      "price": 24.9
+    },
+    {
+      "id": 1,
+      "name": "Calça moleton",
+      "imgUrl": "https://bluhen.cdn.magazord.com.br/img/2023/06/produto/3805/calca-moletom-jogger-masculina-chumbo-faixa-preta-inverno-outono-frio-masculino-algodao-passeio-esporte-esportiva-treino-academia-casual.png?ims=fit-in/635x865/filters:fill(white)",
+      "description": "Calça moletom ideal para qualquer momento. Use e abuse dos nossos produtos",
+      "price": 80.0
+    },
+    {
+      "id": 2,
+      "name": "Bermuda jeans",
+      "imgUrl": "https://tezhht.vtexassets.com/arquivos/ids/177641-800-auto?v=638682507397000000&width=800&height=auto&aspect=true",
+      "description": "Bermuda jeans que combina com qualquer lugar",
+      "price": 24.9
+    }
+  ]
+}
