@@ -5,7 +5,7 @@
 
 <img src="ecommerceProducts.png" alt="Exemplo imagem">
 
-> Ecommerce de produtos com gerenciamento dos estados de carrinho e produtos em Context API
+> Ecommerce de produtos com gerenciamento dos estados de carrinho e produtos usando Context API
 
 <br>
 
