@@ -20,6 +20,13 @@
       "imgUrl": "https://tezhht.vtexassets.com/arquivos/ids/177641-800-auto?v=638682507397000000&width=800&height=auto&aspect=true",
       "description": "Bermuda jeans que combina com qualquer lugar",
       "price": 24.9
+    },
+    {
+      "id": 3,
+      "name": "Casaco",
+      "imgUrl": "https://img.lojasrenner.com.br/item/881475241/original/3.jpg",
+      "description": "Casaco moletom ideal para qualquer momento",
+      "price": 89.9
     }
   ]
 }
