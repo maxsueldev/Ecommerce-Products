@@ -22,7 +22,7 @@ const ProductsProvider = ({ children }: { children: ReactNode }) => {
 
   async function fetchProducts() {
     try {
-      await fetch("http://localhost:8000/products")
+      await fetch("https://products-json-max.vercel.app/products")
         .then((resp) => resp.json())
         .then((data) => setProducts(data));
     } catch (e) {
